@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c# pro\\MoneyMusicDecimal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B6C75E-584A-4E44-9895-698B9FC0E4D0}|MoneyMusicDecimal\\MoneyMusicDecimal.csproj|c:\\c# pro\\moneymusicdecimal\\moneymusicdecimal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B6C75E-584A-4E44-9895-698B9FC0E4D0}|MoneyMusicDecimal\\MoneyMusicDecimal.csproj|solutionrelative:moneymusicdecimal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B6C75E-584A-4E44-9895-698B9FC0E4D0}|MoneyMusicDecimal\\MoneyMusicDecimal.csproj|c:\\c# pro\\moneymusicdecimal\\moneymusicdecimal\\decimalnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B6C75E-584A-4E44-9895-698B9FC0E4D0}|MoneyMusicDecimal\\MoneyMusicDecimal.csproj|solutionrelative:moneymusicdecimal\\decimalnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B6C75E-584A-4E44-9895-698B9FC0E4D0}|MoneyMusicDecimal\\MoneyMusicDecimal.csproj|c:\\c# pro\\moneymusicdecimal\\moneymusicdecimal\\musicalinstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B6C75E-584A-4E44-9895-698B9FC0E4D0}|MoneyMusicDecimal\\MoneyMusicDecimal.csproj|solutionrelative:moneymusicdecimal\\musicalinstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B6C75E-584A-4E44-9895-698B9FC0E4D0}|MoneyMusicDecimal\\MoneyMusicDecimal.csproj|c:\\c# pro\\moneymusicdecimal\\moneymusicdecimal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B6C75E-584A-4E44-9895-698B9FC0E4D0}|MoneyMusicDecimal\\MoneyMusicDecimal.csproj|solutionrelative:moneymusicdecimal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B6C75E-584A-4E44-9895-698B9FC0E4D0}|MoneyMusicDecimal\\MoneyMusicDecimal.csproj|c:\\c# pro\\moneymusicdecimal\\moneymusicdecimal\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B6C75E-584A-4E44-9895-698B9FC0E4D0}|MoneyMusicDecimal\\MoneyMusicDecimal.csproj|solutionrelative:moneymusicdecimal\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\c# pro\\MoneyMusicDecimal\\MoneyMusicDecimal\\Product.cs",
+              "RelativeDocumentMoniker": "MoneyMusicDecimal\\Product.cs",
+              "ToolTip": "C:\\c# pro\\MoneyMusicDecimal\\MoneyMusicDecimal\\Product.cs",
+              "RelativeToolTip": "MoneyMusicDecimal\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:20:11.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DecimalNumber.cs",
+              "DocumentMoniker": "C:\\c# pro\\MoneyMusicDecimal\\MoneyMusicDecimal\\DecimalNumber.cs",
+              "RelativeDocumentMoniker": "MoneyMusicDecimal\\DecimalNumber.cs",
+              "ToolTip": "C:\\c# pro\\MoneyMusicDecimal\\MoneyMusicDecimal\\DecimalNumber.cs",
+              "RelativeToolTip": "MoneyMusicDecimal\\DecimalNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:09:39.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicalInstrument.cs",
+              "DocumentMoniker": "C:\\c# pro\\MoneyMusicDecimal\\MoneyMusicDecimal\\MusicalInstrument.cs",
+              "RelativeDocumentMoniker": "MoneyMusicDecimal\\MusicalInstrument.cs",
+              "ToolTip": "C:\\c# pro\\MoneyMusicDecimal\\MoneyMusicDecimal\\MusicalInstrument.cs",
+              "RelativeToolTip": "MoneyMusicDecimal\\MusicalInstrument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:09:08.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Money.cs",
+              "DocumentMoniker": "C:\\c# pro\\MoneyMusicDecimal\\MoneyMusicDecimal\\Money.cs",
+              "RelativeDocumentMoniker": "MoneyMusicDecimal\\Money.cs",
+              "ToolTip": "C:\\c# pro\\MoneyMusicDecimal\\MoneyMusicDecimal\\Money.cs",
+              "RelativeToolTip": "MoneyMusicDecimal\\Money.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:08:22.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c# pro\\MoneyMusicDecimal\\MoneyMusicDecimal\\Program.cs",
+              "RelativeDocumentMoniker": "MoneyMusicDecimal\\Program.cs",
+              "ToolTip": "C:\\c# pro\\MoneyMusicDecimal\\MoneyMusicDecimal\\Program.cs",
+              "RelativeToolTip": "MoneyMusicDecimal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:07:32.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

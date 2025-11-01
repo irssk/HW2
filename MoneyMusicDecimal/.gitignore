@@ -1,0 +1,27 @@
+# Игнорировать всё бинарное и временное
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.tmp
+*.log
+*.cache
+*.db
+*.DS_Store
+Thumbs.db
+*.exe
+*.dll
+*.pdb
+*.dbmdl
+*.opendb
+*.vsconfig
+
+# Игнорировать publish и build артефакты
+**/publish/
+**/Build/
+**/bin/
+**/obj/
+
+# Разрешить .gitignore
+!.gitignore
